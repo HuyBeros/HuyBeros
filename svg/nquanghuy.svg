@@ -81,16 +81,6 @@
 				<div class="greeting">
           Hi Aliens!<br/>I'm Quang Huy from the Earth.
         </div>
-        <div class="skills">
-          <div class="skills_icon html5"><img src="https://img.icons8.com/color/480/html-5--v1.png" alt="html-5--v1"/></div>
-          <div class="skills_icon css3"><img src="https://img.icons8.com/color/480/css3.png" alt="css3"/></div>
-          <div class="skills_icon javascript"><img src="https://img.icons8.com/color/480/javascript.png" alt="javascript"/></div>
-          <div class="skills_icon java"><img src="https://img.icons8.com/color/480/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/></div>
-          <div class="skills_icon springboot"><img src="https://img.icons8.com/color/480/spring-boot.png" alt="spring-boot"/></div>
-          <div class="skills_icon androidstudio"><img src="https://img.icons8.com/color/480/android-studio.png" alt="android-studio"/></div>
-          <div class="skills_icon flutter"><img src="https://img.icons8.com/color/480/flutter.png" alt="flutter"/></div>
-          <div class="skills_icon mysql"><img src="https://img.icons8.com/color/480/mysql-logo.png" alt="mysql-logo"/></div>
-        </div>
 			</div>
 		</div>
 	</foreignObject>
